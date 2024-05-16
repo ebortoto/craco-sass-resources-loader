@@ -1,5 +1,5 @@
 {
-  "name": "@jonny1994/craco-sass-resources-loader",
+  "name": "@dubortoto/craco-sass-resources-loader",
   "version": "1.0.0",
   "description": "A craco plugin to use sass-resources-loader with create-react-app",
   "repository": "https://github.com/Jonny-china/craco-sass-resources-loader",
